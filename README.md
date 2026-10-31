@@ -31,7 +31,7 @@ execute permission by default. Without it the script fails with
     Filesystem      Size  Used Avail Use% Mounted on
     /dev/sdd       1007G  1.3G  955G   1% /
     ----- Health Check -----
-    Disk usage is 1%
+    Disk usage is _________
     OK: disk usage is within limits
 
 ## What I learned
